@@ -11,7 +11,7 @@ spring:
   ai:
     dashscope:
       # 需要替换为你自己的 key
-      api-key: your-api-key
+      api-key: sk-568932d92a224955b0512e5cd5982210
       chat:
         options:
           model: qwen-plus
